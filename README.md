@@ -1,7 +1,7 @@
 # Eker-Ilaclama
 # ekeriaclama.com.tr
 
-🌐 **Canlı Site:** [https://ekeriaclama.com.tr](https://ekeriaclama.com.tr)
+🌐 **Canlı Site:** [https://ekeriaclama.com.tr](https://ekerilaclama.com.tr)
 
 💻 **Proje Amaç:**  
 Eker İlaçlama’nın hizmetlerini tanıtan, modern ve kurumsal bir ön yüz sunan web sitesi.
